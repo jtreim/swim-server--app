@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Swim Coach</string>
+    <string name="server_msg_default">Waiting for server...</string>
 </resources>
